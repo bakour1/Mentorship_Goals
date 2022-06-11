@@ -10,7 +10,7 @@ Mentorship Goals Needed To Finish
 - [x] Animation
 - [x] Media Queries
 - [x] Grid System
-- [ ] Create Your Framework || UI Kit
+- [x] Create Your Framework || UI Kit
 
 ## JavaScript
 
