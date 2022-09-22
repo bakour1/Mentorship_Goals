@@ -1,6 +1,7 @@
-# Mentorship Goals For My Team
 
-Mentorship Goals Needed To Finish
+** my Goals Needed To Finish **
+
+## HTML
 
 ## CSS
 
@@ -10,7 +11,24 @@ Mentorship Goals Needed To Finish
 - [x] Animation
 - [x] Media Queries
 - [x] Grid System
-- [x] Create Your Framework || UI Kit
+- [x] 50 challenge HTML ans CSS
+
+
+## projects
+
+- [x] website 1 kasper
+- [x] website 2 leon
+- [x] website 3 advanced leon
+- [x] website 4 ENYO
+
+
+## SASS
+
+- [x] learning SASS
+- [x] website Composition by SASS
+- [x] website Restorant by SASS
+- [x] website Elzero-3 by SASS
+
 
 ## JavaScript
 
@@ -19,20 +37,11 @@ Mentorship Goals Needed To Finish
 - [x] Destructuring
 - [x] Scope
 - [x] Local Storage
-- [ ] Object Oriented Programming
-- [ ] Prototype
-- [ ] JSON
-- [ ] AJAX
-- [ ] Promises
-
-## Tools 
-
-- [ ] Lighthouse
-- [ ] Google Developer Tools
-- [x] Git And Github
-- [ ] Terminal And Commands
-
-## Problem Solving And Challenges
+- [x] Object Oriented Programming
+- [x] Prototype
+- [x] JSON
+- [x] AJAX
+- [x] Promises
 
 ### Codewars 300 Very Easy And Easy Problems
 
@@ -43,35 +52,63 @@ Mentorship Goals Needed To Finish
 - [x] 50
 - [x] 50
 
-### Codewars 50 Medium Problems
 
-- [ ] 10
-- [ ] 10
-- [ ] 10
-- [ ] 10
-- [ ] 10
-
-### Front-End Mentors 15 Challenges
-
-- [x] 5
-- [x] 5
-- [x] 5
-
-## Designs
-
-- [x] Template 1 [HTML + CSS]
-- [x] Template 2 [HTML + CSS]
-- [x] Template 3 [HTML + CSS]
-- [x] Template 4 [HTML + CSS + JS]
-- [ ] Dashboard [HTML + CSS + JS]
-
-## Portofolio
-
-- [x] Your Website
+## Portfolio
 - [x] Github Profile
-- [x] Linkedin Profile => [LinkedIn Useful Video](https://www.youtube.com/watch?v=7JysIkTyccs)
+- [x] Linkedin Profile
 - [ ] Resume
+- [x] design my website
+- [x] create my website
+- [x] learn hostinger hpanel
+- [x] uploade to hostinger and indexing it
 
+
+## bootstrap
+
+- [x] learning bootstrap
+- [x] website [bondi] by bootstrap
+- [x] website [Appled] by bootstrap
+
+## traning 
+ - ### javascript
+- [x] quizApp Elzero by html, css and js
+
+## typescript
+
+- [x] learning typescript
+- [x] webApp samiquiz by typescript and boostrap
+
+
+## Advanced skill
+
+- [x] learn Command line
+
+
+## tailwindcss
+
+- [x] learning tailwindcss
+- [x] website [manage] by tailwindcss
+- [ ] twitter clone by tailwindcss
+
+
+## traning 
+ - ### typescript and tailwind
+- [ ] memory Game by typescript and tailwind
+
+
+## UI KIT
+
+- [x] create my ui kit
+- [x] dashbord Elzero my ui kit
+
+
+.
+.
+.
+.
+.
+.
+.
 ## Before Frameworks
 
 - [ ] Virtual DOM
@@ -82,7 +119,6 @@ Mentorship Goals Needed To Finish
 
 ## Save Time Skills
 
-- [x] SASS
 - [ ] Pugjs
 - [ ] One Of The Task Runners
 
